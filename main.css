@@ -1,0 +1,27 @@
+.card img {
+   width: 17.9rem;
+   height:24rem;
+}
+
+.list-view {
+   margin-left: 5rem;
+   
+  
+   display: flex;
+   flex-flow: row wrap;
+
+}
+
+.card {
+   margin-bottom: 5rem;
+}
+
+.jumbotron img {
+   height:15%;
+   width:51%;
+  
+}
+
+body {
+  background-image: url("reel.jpg");   
+}
