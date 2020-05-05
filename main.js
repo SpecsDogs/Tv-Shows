@@ -31,7 +31,7 @@ var listView = function(id, photo, title, network) {
     ${photo ? `<img src="${photo[0].url}">` : ``}
     <div class="card-body">
       <h2 class="card-title"><a href="index.html?id=${id}">${title}</h2></a>
-      <p class="card-text">${network}</p>
+      <p class="card-text">Network: <strong>${network}</strong></p>
       </div>
     </div>
     </div>

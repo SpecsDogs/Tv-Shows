@@ -25,3 +25,15 @@
 body {
   background-image: url("reel.jpg");   
 }
+
+.family {
+  margin-left:6%;
+}
+
+.title {
+  padding-left:2%; 
+ font-family: 'Righteous', cursive;
+ background-color:#0000e6 ;
+ color: white; 
+}
+
